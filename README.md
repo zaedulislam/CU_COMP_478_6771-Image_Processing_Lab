@@ -7,3 +7,4 @@ This course was mainly about digital image fundamentals including:
 - image enhancement (histogram processing, spatial filtering, high- and low-pass filtering), image restoration,
 - image compression (elements of information theory, image compression models, error-free compression, lossy compression),
 - image segmentation (line detection, Hough transform, edge detection and linking, thresholding, region splitting and merging), representation and description (chain codes, signatures, skeletons, shape descriptors, moments, texture).
+- Image Restoration
